@@ -18,7 +18,7 @@ To analyze the count and percentage distribution of business licence statuses (A
 <h2>
     Dataset Source:
 </h2>
-<a href="">
+<a href="https://opendata.vancouver.ca/pages/home/">
     City of Vancouver Open Data Portal
 </a>
 
@@ -115,9 +115,11 @@ Designed and implemented a descriptive analysis pipeline to calculate the averag
 To compute and analyze the yearly average number of days between issue and expiry dates of business licences to support city planning and business continuity strategies.
 
 <h2>
-    Dataset:
+    Dataset Source:
 </h2>
-Data Source: City of Vancouver Open Data Portal
+<a href="https://opendata.vancouver.ca/pages/home/">
+    City of Vancouver Open Data Portal
+</a>
 
 <h2>
     Name:
