@@ -1,6 +1,6 @@
 # data-analyst-zaryab
 
-Exploratory Data Analysis
+Project 1: Exploratory Data Analysis
 
 Project Description:
 
@@ -58,6 +58,8 @@ Count and percentage distribution of business licence statuses.
 Grouped datasets stored in S3 for further use.
 
 Insights on operational health trends of project management businesses.
+
+
 
 
 
