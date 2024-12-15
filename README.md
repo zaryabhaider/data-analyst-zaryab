@@ -19,6 +19,7 @@ To analyze the count and percentage distribution of business licence statuses (A
     Dataset Source:
 </h2>
 City of Vancouver Open Data Portal
+https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/table/?disjunctive.status&refine.city=Calgary
 
 <h2>
     Name:
@@ -114,7 +115,7 @@ To compute and analyze the yearly average number of days between issue and expir
     Dataset:
 </h2>
 Data Source: City of Vancouver Open Data Portal
-
+https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/table/?disjunctive.status&refine.city=Calgary
 <h2>
 Name:
     </h2>
