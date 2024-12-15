@@ -53,7 +53,8 @@ Filtered 781,013 records to under 500 by focusing on Downtown Vancouver and proj
 <h2>
     Visualization:
 </h2>
-![Picture1](https://github.com/user-attachments/assets/16278742-fa68-4b4d-9628-4d8823fcaf40)
+![Picture1](https://github.com/user-attachments/assets/007773b8-4fea-4047-b049-37aaca46877c)
+
 
 Grouped and calculated percentages to visualize operational health trends.
 
