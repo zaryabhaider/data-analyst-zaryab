@@ -2,7 +2,7 @@
 
 <h2>
     Project Description:
-<h2>
+</h2>
 
 Developed an exploratory analysis pipeline to evaluate the operational health of project management businesses in Downtown Vancouver using historical business licence data from 2013 to 2024.
 
