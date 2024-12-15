@@ -37,6 +37,7 @@ Applied AWS Glue ETL to group licences by status and compute their distribution.
 Created a dummy column for seamless data merging and utilized SQL queries for data extraction.
 
 Visualization:
+![Picture1](https://github.com/user-attachments/assets/16278742-fa68-4b4d-9628-4d8823fcaf40)
 
 Grouped and calculated percentages to visualize operational health trends.
 
