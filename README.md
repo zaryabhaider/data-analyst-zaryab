@@ -1,6 +1,6 @@
 # data-analyst-zaryab
 
-<h1>Project 1: Exploratory Data Analysis<h1>
+<h1>Project 1: Exploratory Data Analysis</h1>
 
 Project Description:
 
