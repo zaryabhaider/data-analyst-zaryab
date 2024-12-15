@@ -18,20 +18,16 @@ To analyze the count and percentage distribution of business licence statuses (A
 <h2>
     Dataset Source:
 </h2>
-<a href="https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/information/?disjunctive.status&localarea=Downtown&refine.city=Vancouver&q=project&refine.localarea=Downtown&refine.businesssubtype=Project+Management">
+<a href="">
     City of Vancouver Open Data Portal
 </a>
-<link>
-https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/table/?disjunctive.status&refine.city=Calgary
 
 <h2>
     Name:
 </h2>
-<a href="<a href="https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/information/?disjunctive.status&localarea=Downtown&refine.city=Vancouver&q=project&refine.localarea=Downtown&refine.businesssubtype=Project+Management">
-    City of Vancouver Open Data Portal
+<a href="https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/information/?disjunctive.status&localarea=Downtown&refine.city=Vancouver&q=project&refine.localarea=Downtown&refine.businesssubtype=Project+Management">
+    Business Licences 2013 to 2024
 </a>
-"></a>
-Business Licences 2013 to 2024
 
 <h2>
     Records:
@@ -121,20 +117,12 @@ To compute and analyze the yearly average number of days between issue and expir
 <h2>
     Dataset:
 </h2>
-<a href="<a href="https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/information/?disjunctive.status&localarea=Downtown&refine.city=Vancouver&q=project&refine.localarea=Downtown&refine.businesssubtype=Project+Management">
-    City of Vancouver Open Data Portal
-</a>
-">    
-    Data Source: City of Vancouver Open Data Portal
-</a>
+Data Source: City of Vancouver Open Data Portal
 
 <h2>
-Name:
-    </h2>
-<a href="<a href="https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/information/?disjunctive.status&localarea=Downtown&refine.city=Vancouver&q=project&refine.localarea=Downtown&refine.businesssubtype=Project+Management">
-    City of Vancouver Open Data Portal
-</a>
-">    
+    Name:
+</h2>
+<a href="https://opendata.vancouver.ca/explore/dataset/business-licences-2013-to-2024/information/?disjunctive.status&localarea=Downtown&refine.city=Vancouver&q=project&refine.localarea=Downtown&refine.businesssubtype=Project+Management">
     Business Licences 2013 to 2024
 </a>
 
